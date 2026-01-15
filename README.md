@@ -26,4 +26,4 @@ Streamlit: For the web interface.
 
 Groq SDK: For ultra-low latency AI inference.
 
-To implement, run streamlit run task.py
+To implement, run on the terminal as  "streamlit run task.py."
